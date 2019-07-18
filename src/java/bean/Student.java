@@ -7,7 +7,7 @@ package bean;
  */
 /**
  *
- * @author sarkhanrasullu
+ * @author Goshgar
  */
 public class Student {
 
