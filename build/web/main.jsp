@@ -1,12 +1,3 @@
-<%-- 
-    Document   : main
-    Created on : Sep 5, 2018, 4:04:39 PM
-    Author     : Goshgar
---%>
-
-
-
-
 <%@page import="bean.Student"%>
 <%@page import="service.StudentDatabase"%>
 <%@page import="java.util.List"%>
